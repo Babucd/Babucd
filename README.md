@@ -1,5 +1,13 @@
-### 👋 Hi,i'm BabuNatarajan 
+### 👋 Hi,i'm Babu Natarajan 
 
+- 💬 Frontend focused Web Developer
+  
+- 🔭 Here's my [portfolio](https://babucd.github.io/flexible-portfolio/)                                                 
+- 🌱 I’m currently learning DSA
+- 👯 I’m looking for internship
+- 🤔 I’m looking for help with Placements 
+- 📫 How to reach me :
+- 
 <!--
 **Babucd/Babucd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
