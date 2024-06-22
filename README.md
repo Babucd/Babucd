@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking for internship
 - 🤔 I’m looking help for Placements 
-- 📫 How to reach me :
+- 📫  reach me :
   <br> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/-babu-natarajan-43-/)
 
   ### code in
