@@ -2,8 +2,8 @@
 ### 
 - 💬 I'm a passionate Front-End Developer with a love for creating beautiful and functional web applications. I enjoy working with modern technologies and continuously improving my skills.
   
-- 🔭 Here's my [portfolio](https://babucd.github.io/flexible-portfolio/)                                                 
-- 🌱 I’m currently learning DSA
+- 🔭 Here's my [portfolio](https://babucd.github.io/flexible-portfolio/) website                                               
+- 🌱 I’m currently learning Data Structures and Algorithms 
 - 👯 I’m looking for internship
 - 🤔 I’m looking help for Placements 
 - 📫  reach me :
@@ -17,7 +17,7 @@
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
   - Backend Technologies 
   - Data Structures and Algorithms 
-<!--  - ![LeetCode Stats](https://leetcard.jacoblin.cool/babu21?theme=dark&font=Noto%20Sans%20Hanifi%20Rohingya&ext=heatmap)
+  - ![LeetCode Stats](https://leetcard.jacoblin.cool/babu21?theme=dark&font=Noto%20Sans%20Hanifi%20Rohingya&ext=heatmap)
 <!--
 **Babucd/Babucd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
