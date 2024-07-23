@@ -17,7 +17,7 @@
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
   - Backend Technologies 
   - Data Structures and Algorithms 
-<!--  - ![LeetCode Stats](https://leetcard.jacoblin.cool/babu21?theme=dark&font=Noto%20Sans%20Hanifi%20Rohingya&ext=heatmap)
+  - ![LeetCode Stats](https://leetcard.jacoblin.cool/babu21?theme=dark&font=Noto%20Sans%20Hanifi%20Rohingya&ext=heatmap)
 <!--
 **Babucd/Babucd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
